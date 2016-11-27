@@ -1,2 +1,2 @@
 # naukri-web-scraping
-Scraping Data Scientist Jobs
+Data scientist jobs posted on <a href="https://www.naukri.com/">Naukri</a>, an Indian job search website are scraped using Python libraries <a href="https://docs.python.org/2/library/urllib2.html">urllib2</a> and <a href="https://www.crummy.com/software/BeautifulSoup/bs4/doc/">BeautifulSoup</a>. Further, a quick analysis of the data is done using <a href="http://pandas.pydata.org/">Python</a> and some cool visualizations using <a href="http://seaborn.pydata.org/">seaborn</a>.
